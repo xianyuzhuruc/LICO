@@ -1,0 +1,9 @@
+[submodule "external/FastPFor"]
+	path = external/FastPFor
+	url = https://github.com/fast-pack/FastPFOR
+[submodule "external/libdivide"]
+	path = external/libdivide
+	url = https://github.com/ridiculousfish/libdivide
+[submodule "external/mm_file"]
+	path = external/mm_file
+	url = https://github.com/jermp/mm_file

@@ -3,6 +3,8 @@ An SIMD-Aware High-Performance Learned Inverted Index Compression Framework
 
 This repository provides end-to-end components for building, storing, decoding, and querying LICO-compressed posting lists, with both scalar, AVX2 and AVX-512 SIMD implementation.
 
+[The technical report](https://github.com/xianyuzhuruc/LICO/blob/main/LICO_An%20SIMD-Aware%20High-Performance%20Learned%20Inverted%20Index%20Compression%20Framework%20(Technical%20Report).pdf) includes Appendix A~F.
+
 ## Dataset preparation
 Following the [ds2i](https://github.com/ot/ds2i) format, your dataset directory should be structured as follows:
 
